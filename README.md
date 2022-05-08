@@ -1,2 +1,2 @@
 # SksyTodo
-ToDo's
+ToDo app for better organisation.
